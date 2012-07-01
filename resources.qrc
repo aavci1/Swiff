@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/document-close.png</file>
+        <file>icons/document-export.png</file>
+        <file>icons/document-open.png</file>
+        <file>icons/help-about.png</file>
+        <file>icons/document-multiple.png</file>
+        <file>icons/configure.png</file>
+        <file>icons/checker.png</file>
+        <file>icons/image-svg+xml.png</file>
+        <file>icons/image-x-generic.png</file>
+        <file>icons/button.png</file>
+        <file>icons/text.png</file>
+        <file>icons/preferences-desktop-font.png</file>
+        <file>icons/audio-x-generic.png</file>
+        <file>icons/video-x-generic.png</file>
+    </qresource>
+</RCC>

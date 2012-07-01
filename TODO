@@ -1,0 +1,84 @@
+* Tags needed by Swiff
+  * MorphShapes
+    * DefineMorphShape
+    * DefineMorphShape2
+  * Fonts and Text
+    * DefineFont4
+    * DefineEditText
+  * ActionScript
+    * DoAction
+    * DoInitAction
+    * DoABC
+* Other tags
+  * General
+    * FileAttributes
+    * Metadata
+    * Protect
+    * SetTabIndex
+    * DefineScalingGrid
+    * DefineSceneAndFrameLabelData
+  * Shapes
+    * DefineMorphShape
+    * DefineMorphShape2
+  * Buttons
+    * DefineButtonCxform
+    * DefineButtonSound
+  * Fonts and Text
+    * DefineFontAlignZones
+    * CSMTextSettings
+  * Sound
+    * StartSound
+    * StartSound2
+  * ActionScript
+    * ExportAssets
+    * ImportAssets
+    * ImportAssets2
+    * EnableDebugger
+    * EnableDebugger2
+    * ScriptLimits
+    * SymbolClass
+    * DefineBinaryData
+* MorphShapes
+  * Export as Image
+  * Export as SVG
+* Frames
+  * Export as SVG
+  * Export as SWF
+* Sprites
+  * Export as GIF using libgif
+  * Export as Image series
+  * Export as SWF
+  * Export as FLV
+* Audio
+  * Export ADPCM
+  * Export Uncompressed little-endian
+  * Export Nellymoser
+  * Export Speex
+* Video
+  * Export as FLV
+  * Other video formats through ffmpeg
+* ActionScript2
+  * Export as AS
+* ActionScript3
+  * Export as AS
+* Decompile SWF back to FLA
+  * CS5 - XFL
+  * CS3
+  * CS8
+* New GUI Design
+  * Custom style
+  * Skinnable
+  * Export by drag'n'drop
+  * Preview panel
+    * Multiple previews
+    * Zoom In / Zoom Out / Fit
+    * Scroll bars as needed
+  * Recent Files
+  * Ask for export types on export
+  * Preview for Audio
+  * Preview for Video
+  * Preview for Sprites
+  ? Select items visually frame by frame
+* Setup
+  * Open with Swiff
+  * Custom setup theme
